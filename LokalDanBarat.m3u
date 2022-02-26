@@ -5,6 +5,8 @@
 
 <----------------------------------- NASIONAL --------------------------------------->
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414" group-title="Nasional",Chinese Drama - UseeTV
+http://108.136.37.52/m3u8/uc_Chinese_Drama.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/Wx83Oxsspa0-N6Ws7yEp2esBm1w=/200x113/filters:format(webp):quality(75)/vidio-web-prod-video/uploads/video/image/4381684/bikin-panik-13-februari-2022-f3fa66.jpg" group-title="NASIONAL",Trans 7 - Vidio
 http://108.136.37.52/m3u8/vid_Trans_7.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/9YLgZmBzElIf0u7Q-Y8LEuFF4t0=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="NASIONAL",Trans TV - Vidio
@@ -56,8 +58,7 @@ http://108.136.37.52/m3u8/uc_IDX.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.VTVwBcfc4vmguqUR6r0nqwAAAA&pid=Api&P=0&w=160&h=160" group-title="NASIONAL",Indonesiana TV - UseeTV
 http://108.136.37.52/m3u8/uc_Indonesiana_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414" group-title="DRAMA",Chinese Drama - UseeTV
-http://108.136.37.52/m3u8/uc_Chinese_Drama.m3u8
+
 
 
 <----------------------------------- Indonesia Channel --------------------------------------->
